@@ -1,0 +1,8 @@
+.idea
+.vscode
+.env
+src/__pycache__
+data/downloads/*
+data/cry.db
+data/app.log
+src/services/__pycache__
